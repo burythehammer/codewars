@@ -1,4 +1,4 @@
-package com.google.challenges;
+package com.codewars.challenges;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
